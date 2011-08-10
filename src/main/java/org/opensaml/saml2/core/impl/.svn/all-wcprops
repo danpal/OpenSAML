@@ -1,0 +1,1547 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl
+END
+LogoutRequestUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/LogoutRequestUnmarshaller.java
+END
+BaseIDMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/BaseIDMarshaller.java
+END
+AuthzDecisionStatementBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthzDecisionStatementBuilder.java
+END
+AdviceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AdviceMarshaller.java
+END
+AttributeQueryUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeQueryUnmarshaller.java
+END
+ArtifactResolveMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactResolveMarshaller.java
+END
+ResponseMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ResponseMarshaller.java
+END
+ArtifactUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactUnmarshaller.java
+END
+StatusDetailBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusDetailBuilder.java
+END
+ResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ResponseImpl.java
+END
+AssertionMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionMarshaller.java
+END
+EncryptedIDMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedIDMarshaller.java
+END
+StatusResponseTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusResponseTypeImpl.java
+END
+AuthnQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnQueryImpl.java
+END
+NameIDPolicyMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDPolicyMarshaller.java
+END
+ActionMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ActionMarshaller.java
+END
+AssertionIDRefBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionIDRefBuilder.java
+END
+ArtifactResponseUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactResponseUnmarshaller.java
+END
+GetCompleteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/GetCompleteImpl.java
+END
+AuthnContextDeclRefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextDeclRefImpl.java
+END
+LogoutRequestMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/LogoutRequestMarshaller.java
+END
+LogoutResponseBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/LogoutResponseBuilder.java
+END
+AbstractNameIDTypeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AbstractNameIDTypeUnmarshaller.java
+END
+SubjectQueryUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectQueryUnmarshaller.java
+END
+TerminateUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/TerminateUnmarshaller.java
+END
+NameIDMappingResponseUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDMappingResponseUnmarshaller.java
+END
+AdviceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AdviceUnmarshaller.java
+END
+AttributeQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeQueryImpl.java
+END
+SubjectLocalityUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectLocalityUnmarshaller.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/core/impl/package.html
+END
+ArtifactImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactImpl.java
+END
+EncryptedIDBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedIDBuilder.java
+END
+AuthnContextDeclBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextDeclBuilder.java
+END
+ManageNameIDRequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ManageNameIDRequestBuilder.java
+END
+NewEncryptedIDBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NewEncryptedIDBuilder.java
+END
+AuthenticatingAuthorityUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthenticatingAuthorityUnmarshaller.java
+END
+AssertionIDRefUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionIDRefUnmarshaller.java
+END
+NewEncryptedIDUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NewEncryptedIDUnmarshaller.java
+END
+AuthnContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextImpl.java
+END
+SubjectQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectQueryImpl.java
+END
+SubjectMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectMarshaller.java
+END
+AuthzDecisionStatementUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthzDecisionStatementUnmarshaller.java
+END
+RequestedAuthnContextBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/RequestedAuthnContextBuilder.java
+END
+AdviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AdviceImpl.java
+END
+IDPListBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IDPListBuilder.java
+END
+NewIDMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NewIDMarshaller.java
+END
+SubjectConfirmationMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectConfirmationMarshaller.java
+END
+SubjectConfirmationDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectConfirmationDataImpl.java
+END
+AuthnContextDeclRefMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextDeclRefMarshaller.java
+END
+ConditionsUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ConditionsUnmarshaller.java
+END
+NewIDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NewIDImpl.java
+END
+StatusBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusBuilder.java
+END
+OneTimeUseUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/OneTimeUseUnmarshaller.java
+END
+AuthnContextDeclImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextDeclImpl.java
+END
+RequesterIDBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/RequesterIDBuilder.java
+END
+AttributeStatementMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeStatementMarshaller.java
+END
+AssertionIDRefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionIDRefImpl.java
+END
+AttributeQueryMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeQueryMarshaller.java
+END
+ArtifactBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactBuilder.java
+END
+SubjectConfirmationDataBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectConfirmationDataBuilder.java
+END
+StatusMessageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusMessageImpl.java
+END
+AuthzDecisionQueryMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthzDecisionQueryMarshaller.java
+END
+AudienceRestrictionMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AudienceRestrictionMarshaller.java
+END
+GetCompleteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/GetCompleteBuilder.java
+END
+StatusDetailMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusDetailMarshaller.java
+END
+AuthnContextClassRefMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextClassRefMarshaller.java
+END
+StatusDetailImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusDetailImpl.java
+END
+AudienceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AudienceMarshaller.java
+END
+ConditionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ConditionsImpl.java
+END
+OneTimeUseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/OneTimeUseImpl.java
+END
+AuthnRequestMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnRequestMarshaller.java
+END
+SubjectBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectBuilder.java
+END
+NameIDMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDMarshaller.java
+END
+RequesterIDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/RequesterIDImpl.java
+END
+StatusResponseTypeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusResponseTypeMarshaller.java
+END
+AudienceRestrictionUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AudienceRestrictionUnmarshaller.java
+END
+ProxyRestrictionMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ProxyRestrictionMarshaller.java
+END
+AssertionIDRefMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionIDRefMarshaller.java
+END
+EncryptedAssertionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedAssertionBuilder.java
+END
+EncryptedAssertionMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedAssertionMarshaller.java
+END
+EvidenceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EvidenceUnmarshaller.java
+END
+NameIDMappingRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDMappingRequestImpl.java
+END
+ResponseBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ResponseBuilder.java
+END
+LogoutResponseUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/LogoutResponseUnmarshaller.java
+END
+AssertionURIRefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionURIRefImpl.java
+END
+AuthzDecisionQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthzDecisionQueryBuilder.java
+END
+SubjectLocalityBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectLocalityBuilder.java
+END
+IDPEntryMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IDPEntryMarshaller.java
+END
+ArtifactResolveUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactResolveUnmarshaller.java
+END
+AttributeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeMarshaller.java
+END
+IDPEntryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IDPEntryImpl.java
+END
+RequestedAuthnContextMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/RequestedAuthnContextMarshaller.java
+END
+OneTimeUseBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/OneTimeUseBuilder.java
+END
+ConditionsMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ConditionsMarshaller.java
+END
+AudienceRestrictionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AudienceRestrictionImpl.java
+END
+AuthenticatingAuthorityBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthenticatingAuthorityBuilder.java
+END
+EncryptedElementTypeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedElementTypeUnmarshaller.java
+END
+RequestedAuthnContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/RequestedAuthnContextImpl.java
+END
+EncryptedAttributeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedAttributeBuilder.java
+END
+NameIDMappingRequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDMappingRequestBuilder.java
+END
+NameIDPolicyUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDPolicyUnmarshaller.java
+END
+ActionUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ActionUnmarshaller.java
+END
+ManageNameIDResponseBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ManageNameIDResponseBuilder.java
+END
+EvidenceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EvidenceMarshaller.java
+END
+StatusMessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusMessageBuilder.java
+END
+AuthnContextMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextMarshaller.java
+END
+ManageNameIDResponseMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ManageNameIDResponseMarshaller.java
+END
+TerminateMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/TerminateMarshaller.java
+END
+NameIDMappingResponseMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDMappingResponseMarshaller.java
+END
+SubjectLocalityMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectLocalityMarshaller.java
+END
+ArtifactResolveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactResolveImpl.java
+END
+AuthnContextDeclRefBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextDeclRefBuilder.java
+END
+AttributeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeUnmarshaller.java
+END
+SessionIndexBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SessionIndexBuilder.java
+END
+AbstractNameIDType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AbstractNameIDType.java
+END
+ScopingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ScopingImpl.java
+END
+IDPListUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IDPListUnmarshaller.java
+END
+AuthnStatementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnStatementImpl.java
+END
+AuthnContextDeclMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextDeclMarshaller.java
+END
+IssuerUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IssuerUnmarshaller.java
+END
+SubjectConfirmationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectConfirmationImpl.java
+END
+AuthenticatingAuthorityMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthenticatingAuthorityMarshaller.java
+END
+EncryptedElementTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedElementTypeImpl.java
+END
+NameIDPolicyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDPolicyImpl.java
+END
+ActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ActionImpl.java
+END
+EncryptedAttributeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedAttributeUnmarshaller.java
+END
+AttributeQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeQueryBuilder.java
+END
+AssertionIDRequestMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionIDRequestMarshaller.java
+END
+ScopingBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ScopingBuilder.java
+END
+AttributeStatementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeStatementImpl.java
+END
+ResponseUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ResponseUnmarshaller.java
+END
+StatusResponseTypeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusResponseTypeUnmarshaller.java
+END
+IssuerMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IssuerMarshaller.java
+END
+AttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeImpl.java
+END
+GetCompleteUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/GetCompleteUnmarshaller.java
+END
+EncryptedAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedAttributeImpl.java
+END
+ArtifactResolveBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactResolveBuilder.java
+END
+RequesterIDMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/RequesterIDMarshaller.java
+END
+AuthnRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnRequestImpl.java
+END
+IssuerBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IssuerBuilder.java
+END
+ArtifactResponseBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactResponseBuilder.java
+END
+NameIDPolicyBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDPolicyBuilder.java
+END
+ActionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ActionBuilder.java
+END
+EncryptedElementTypeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedElementTypeMarshaller.java
+END
+SessionIndexMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SessionIndexMarshaller.java
+END
+StatusCodeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusCodeMarshaller.java
+END
+RequestAbstractTypeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/RequestAbstractTypeMarshaller.java
+END
+AuthnContextBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextBuilder.java
+END
+AudienceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AudienceUnmarshaller.java
+END
+EncryptedIDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedIDImpl.java
+END
+ManageNameIDRequestUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ManageNameIDRequestUnmarshaller.java
+END
+AssertionURIRefMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionURIRefMarshaller.java
+END
+StatusCodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusCodeImpl.java
+END
+RequestAbstractTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/core/impl/RequestAbstractTypeImpl.java
+END
+AuthnContextUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextUnmarshaller.java
+END
+LogoutRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/LogoutRequestImpl.java
+END
+BaseIDUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/BaseIDUnmarshaller.java
+END
+AudienceRestrictionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AudienceRestrictionBuilder.java
+END
+NameIDUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDUnmarshaller.java
+END
+SubjectConfirmationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectConfirmationBuilder.java
+END
+SubjectConfirmationDataUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectConfirmationDataUnmarshaller.java
+END
+ConditionsBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ConditionsBuilder.java
+END
+NewIDUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NewIDUnmarshaller.java
+END
+AssertionUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionUnmarshaller.java
+END
+SessionIndexUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SessionIndexUnmarshaller.java
+END
+LogoutRequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/LogoutRequestBuilder.java
+END
+AuthnContextDeclUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextDeclUnmarshaller.java
+END
+KeyInfoConfirmationDataTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/KeyInfoConfirmationDataTypeImpl.java
+END
+EncryptedAttributeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedAttributeMarshaller.java
+END
+ArtifactResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactResponseImpl.java
+END
+AudienceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AudienceImpl.java
+END
+AttributeStatementBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeStatementBuilder.java
+END
+ManageNameIDRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ManageNameIDRequestImpl.java
+END
+LogoutResponseMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/LogoutResponseMarshaller.java
+END
+EncryptedAssertionUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedAssertionUnmarshaller.java
+END
+IDPEntryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IDPEntryBuilder.java
+END
+StatusMessageUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusMessageUnmarshaller.java
+END
+BaseIDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/BaseIDImpl.java
+END
+TerminateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/TerminateImpl.java
+END
+NameIDMappingResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDMappingResponseImpl.java
+END
+AuthnQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnQueryBuilder.java
+END
+SubjectConfirmationDataMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectConfirmationDataMarshaller.java
+END
+AssertionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionBuilder.java
+END
+NameIDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDImpl.java
+END
+AuthnStatementMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnStatementMarshaller.java
+END
+AuthnQueryMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnQueryMarshaller.java
+END
+SubjectLocalityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectLocalityImpl.java
+END
+StatusDetailUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusDetailUnmarshaller.java
+END
+AssertionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionImpl.java
+END
+SessionIndexImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SessionIndexImpl.java
+END
+AuthnRequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnRequestBuilder.java
+END
+AuthenticatingAuthorityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthenticatingAuthorityImpl.java
+END
+ManageNameIDResponseUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ManageNameIDResponseUnmarshaller.java
+END
+NewEncryptedIDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NewEncryptedIDImpl.java
+END
+EncryptedAssertionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedAssertionImpl.java
+END
+ArtifactMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactMarshaller.java
+END
+AuthzDecisionStatementMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthzDecisionStatementMarshaller.java
+END
+RequesterIDUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/RequesterIDUnmarshaller.java
+END
+AttributeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeBuilder.java
+END
+SubjectUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectUnmarshaller.java
+END
+AuthzDecisionStatementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthzDecisionStatementImpl.java
+END
+IDPListMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IDPListMarshaller.java
+END
+AudienceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AudienceBuilder.java
+END
+AssertionURIRefBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionURIRefBuilder.java
+END
+SubjectQueryMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectQueryMarshaller.java
+END
+NameIDMappingRequestUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDMappingRequestUnmarshaller.java
+END
+AssertionURIRefUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionURIRefUnmarshaller.java
+END
+NameIDBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDBuilder.java
+END
+ManageNameIDResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ManageNameIDResponseImpl.java
+END
+AssertionIDRequestUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionIDRequestUnmarshaller.java
+END
+IDPEntryUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IDPEntryUnmarshaller.java
+END
+AuthzDecisionQueryUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthzDecisionQueryUnmarshaller.java
+END
+SubjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectImpl.java
+END
+GetCompleteMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/GetCompleteMarshaller.java
+END
+RequestedAuthnContextUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/RequestedAuthnContextUnmarshaller.java
+END
+AuthnContextClassRefUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextClassRefUnmarshaller.java
+END
+NameIDMappingRequestMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDMappingRequestMarshaller.java
+END
+StatusMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusMarshaller.java
+END
+TerminateBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/TerminateBuilder.java
+END
+NameIDMappingResponseBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NameIDMappingResponseBuilder.java
+END
+AuthnStatementBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnStatementBuilder.java
+END
+AuthnContextClassRefBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextClassRefBuilder.java
+END
+AssertionIDRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionIDRequestImpl.java
+END
+ScopingUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ScopingUnmarshaller.java
+END
+AuthzDecisionQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthzDecisionQueryImpl.java
+END
+AuthnStatementUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnStatementUnmarshaller.java
+END
+StatusCodeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusCodeBuilder.java
+END
+ProxyRestrictionUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ProxyRestrictionUnmarshaller.java
+END
+SubjectConfirmationUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/SubjectConfirmationUnmarshaller.java
+END
+ArtifactResponseMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ArtifactResponseMarshaller.java
+END
+OneTimeUseMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/OneTimeUseMarshaller.java
+END
+AuthnContextClassRefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextClassRefImpl.java
+END
+StatusUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusUnmarshaller.java
+END
+AdviceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AdviceBuilder.java
+END
+EvidenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EvidenceImpl.java
+END
+AttributeStatementUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AttributeStatementUnmarshaller.java
+END
+LogoutResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/LogoutResponseImpl.java
+END
+ScopingMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ScopingMarshaller.java
+END
+ProxyRestrictionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ProxyRestrictionBuilder.java
+END
+ProxyRestrictionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ProxyRestrictionImpl.java
+END
+EvidenceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EvidenceBuilder.java
+END
+NewEncryptedIDMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NewEncryptedIDMarshaller.java
+END
+StatusMessageMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusMessageMarshaller.java
+END
+AssertionIDRequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AssertionIDRequestBuilder.java
+END
+StatusImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusImpl.java
+END
+AuthnRequestUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnRequestUnmarshaller.java
+END
+NewIDBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/NewIDBuilder.java
+END
+KeyInfoConfirmationDataTypeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/KeyInfoConfirmationDataTypeBuilder.java
+END
+AuthnQueryUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnQueryUnmarshaller.java
+END
+AuthnContextDeclRefUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AuthnContextDeclRefUnmarshaller.java
+END
+EncryptedIDUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/EncryptedIDUnmarshaller.java
+END
+ManageNameIDRequestMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/ManageNameIDRequestMarshaller.java
+END
+IDPListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IDPListImpl.java
+END
+StatusCodeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/StatusCodeUnmarshaller.java
+END
+RequestAbstractTypeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/RequestAbstractTypeUnmarshaller.java
+END
+IssuerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/IssuerImpl.java
+END
+AbstractNameIDTypeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml2/core/impl/AbstractNameIDTypeMarshaller.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/encoding
+END
+SAMLMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/encoding/SAMLMessageEncoder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/encoding/package.html
+END

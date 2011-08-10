@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding
+END
+BasicEndpointSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/BasicEndpointSelector.java
+END
+AbstractEndpointSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/AbstractEndpointSelector.java
+END
+SAMLMessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/SAMLMessageContext.java
+END
+BasicSAMLMessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/BasicSAMLMessageContext.java
+END
+BindingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/BindingException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/package.html
+END

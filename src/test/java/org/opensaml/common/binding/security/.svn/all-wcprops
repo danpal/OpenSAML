@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/binding/security
+END
+IssueInstantRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/binding/security/IssueInstantRuleTest.java
+END
+BaseSAMLSecurityPolicyRuleTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/binding/security/BaseSAMLSecurityPolicyRuleTestCase.java
+END
+StaticProtocolMesageRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/binding/security/StaticProtocolMesageRule.java
+END
+SAMLProtocolMessageXMLSignatureSecurityPolicyRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/binding/security/SAMLProtocolMessageXMLSignatureSecurityPolicyRuleTest.java
+END
+MessageReplayRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/binding/security/MessageReplayRuleTest.java
+END
+StaticIssuerRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/binding/security/StaticIssuerRule.java
+END

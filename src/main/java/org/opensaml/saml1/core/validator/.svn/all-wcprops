@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator
+END
+SubjectConfirmationSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/SubjectConfirmationSchemaValidator.java
+END
+AudienceRestrictionConditionSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AudienceRestrictionConditionSchemaValidator.java
+END
+RequestAbstractTypeSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/RequestAbstractTypeSchemaValidator.java
+END
+StatusCodeSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/StatusCodeSchemaValidator.java
+END
+EvidenceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/EvidenceSchemaValidator.java
+END
+AuthorityBindingSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AuthorityBindingSchemaValidator.java
+END
+AttributeDesignatorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AttributeDesignatorSchemaValidator.java
+END
+StatusSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/StatusSchemaValidator.java
+END
+ResponseAbstractTypeSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/ResponseAbstractTypeSchemaValidator.java
+END
+SubjectStatementSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/SubjectStatementSchemaValidator.java
+END
+SubjectQuerySchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/SubjectQuerySchemaValidator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/package.html
+END
+AttributeStatementSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AttributeStatementSchemaValidator.java
+END
+RequestSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/RequestSchemaValidator.java
+END
+AttributeQuerySchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AttributeQuerySchemaValidator.java
+END
+ResponseSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/ResponseSchemaValidator.java
+END
+SubjectSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/SubjectSchemaValidator.java
+END
+AssertionSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AssertionSpecValidator.java
+END
+AuthorizationDecisionStatementSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AuthorizationDecisionStatementSchemaValidator.java
+END
+AttributeSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AttributeSchemaValidator.java
+END
+AuthorizationDecisionQuerySchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AuthorizationDecisionQuerySchemaValidator.java
+END
+AuthenticationStatementSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AuthenticationStatementSchemaValidator.java
+END
+AuthenticationQuerySchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AuthenticationQuerySchemaValidator.java
+END
+AudienceSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AudienceSpecValidator.java
+END
+AssertionSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/AssertionSchemaValidator.java
+END
+ActionSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/validator/ActionSpecValidator.java
+END

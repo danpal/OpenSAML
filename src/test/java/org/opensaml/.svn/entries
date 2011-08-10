@@ -1,0 +1,43 @@
+10
+
+dir
+1548
+https://svn.shibboleth.net/java-opensaml2/trunk/src/test/java/org/opensaml
+https://svn.shibboleth.net/java-opensaml2
+
+
+
+2008-04-03T19:37:16.491129Z
+1301
+putmanb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59e08313-8a06-0410-87f4-cf042bce0a15
+
+security
+dir
+
+common
+dir
+
+saml1
+dir
+
+samlext
+dir
+
+saml2
+dir
+

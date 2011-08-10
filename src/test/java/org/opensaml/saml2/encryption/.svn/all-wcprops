@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/encryption
+END
+ComplexEncryptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/encryption/ComplexEncryptionTest.java
+END
+EncryptedElementTypeEncryptedKeyResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/encryption/EncryptedElementTypeEncryptedKeyResolverTest.java
+END
+SimpleEncryptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/encryption/SimpleEncryptionTest.java
+END
+SimpleDecryptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/encryption/SimpleDecryptionTest.java
+END

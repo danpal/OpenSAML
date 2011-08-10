@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml1/core
+END
+FullResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml1/core/FullResponse.xml
+END
+SignedAssertion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml1/core/SignedAssertion.xml
+END
+SignedRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml1/core/SignedRequest.xml
+END
+SignedResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml1/core/SignedResponse.xml
+END

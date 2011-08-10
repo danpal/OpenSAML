@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common
+END
+SAMLRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/SAMLRuntimeException.java
+END
+SAMLVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/SAMLVersion.java
+END
+SAMLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/SAMLObject.java
+END
+SignableSAMLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/SignableSAMLObject.java
+END
+IdentifierGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/IdentifierGenerator.java
+END
+SAMLObjectBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/SAMLObjectBuilder.java
+END
+SAMLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/SAMLException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/package.html
+END

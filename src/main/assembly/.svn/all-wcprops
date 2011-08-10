@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/java-opensaml2/!svn/ver/1308/trunk/src/main/assembly
+END
+src.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/java-opensaml2/!svn/ver/1308/trunk/src/main/assembly/src.xml
+END
+bin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/java-opensaml2/!svn/ver/1308/trunk/src/main/assembly/bin.xml
+END

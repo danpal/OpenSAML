@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/security
+END
+SAMLSignatureProfileValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/security/SAMLSignatureProfileValidatorTest.java
+END
+MetadataCredentialResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/security/MetadataCredentialResolverTest.java
+END

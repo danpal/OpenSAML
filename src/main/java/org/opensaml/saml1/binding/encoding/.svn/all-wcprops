@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/encoding
+END
+HTTPSOAP11Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/encoding/HTTPSOAP11Encoder.java
+END
+HTTPPostEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/encoding/HTTPPostEncoder.java
+END
+BaseSAML1MessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/encoding/BaseSAML1MessageEncoder.java
+END
+HTTPArtifactEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/encoding/HTTPArtifactEncoder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/encoding/package.html
+END

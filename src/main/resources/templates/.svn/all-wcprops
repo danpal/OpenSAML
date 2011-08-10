@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/templates
+END
+saml2-post-simplesign-binding.vm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/templates/saml2-post-simplesign-binding.vm
+END
+saml2-post-artifact-binding.vm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/templates/saml2-post-artifact-binding.vm
+END
+saml1-post-binding.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/templates/saml1-post-binding.vm
+END
+saml2-post-binding.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/templates/saml2-post-binding.vm
+END

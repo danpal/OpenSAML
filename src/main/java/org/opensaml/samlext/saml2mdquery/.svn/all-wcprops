@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery
+END
+AuthzDecisionQueryDescriptorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/AuthzDecisionQueryDescriptorType.java
+END
+AuthnQueryDescriptorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/AuthnQueryDescriptorType.java
+END
+QueryDescriptorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/QueryDescriptorType.java
+END
+ActionNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/ActionNamespace.java
+END
+AttributeQueryDescriptorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/AttributeQueryDescriptorType.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/package.html
+END

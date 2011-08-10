@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/security
+END
+MetadataCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/security/MetadataCriteria.java
+END
+MetadataCredentialResolverFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/security/MetadataCredentialResolverFactory.java
+END
+SAMLSignatureProfileValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/security/SAMLSignatureProfileValidator.java
+END
+MetadataCredentialResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/security/MetadataCredentialResolver.java
+END
+SAMLMDCredentialContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/security/SAMLMDCredentialContext.java
+END
+MetadataTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/security/MetadataTool.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/security/package.html
+END

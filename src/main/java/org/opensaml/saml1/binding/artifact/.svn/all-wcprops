@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/artifact
+END
+AbstractSAML1Artifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/artifact/AbstractSAML1Artifact.java
+END
+SAML1ArtifactType0002.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/artifact/SAML1ArtifactType0002.java
+END
+SAML1ArtifactBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/artifact/SAML1ArtifactBuilder.java
+END
+SAML1ArtifactType0001Builder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/artifact/SAML1ArtifactType0001Builder.java
+END
+SAML1ArtifactType0002Builder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/artifact/SAML1ArtifactType0002Builder.java
+END
+SAML1ArtifactBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/artifact/SAML1ArtifactBuilderFactory.java
+END
+SAML1ArtifactType0001.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/artifact/SAML1ArtifactType0001.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/artifact/package.html
+END

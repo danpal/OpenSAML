@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources
+END
+saml2-protocol-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/saml2-protocol-config.xml
+END
+saml2-metadata-query-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/saml2-metadata-query-config.xml
+END
+saml1-assertion-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/saml1-assertion-config.xml
+END
+saml2-assertion-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/saml2-assertion-config.xml
+END
+saml2-metadata-validation-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/saml2-metadata-validation-config.xml
+END
+saml2-protocol-thirdparty-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/saml2-protocol-thirdparty-config.xml
+END
+saml1-core-validation-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/saml1-core-validation-config.xml
+END
+saml1-metadata-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/saml1-metadata-config.xml
+END
+saml1-protocol-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/saml1-protocol-config.xml
+END
+saml2-core-validation-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/saml2-core-validation-config.xml
+END
+saml2-metadata-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/java-opensaml2/!svn/ver/1288/trunk/src/main/resources/saml2-metadata-config.xml
+END

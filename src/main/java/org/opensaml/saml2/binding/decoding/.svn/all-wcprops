@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding/decoding
+END
+HTTPArtifactDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding/decoding/HTTPArtifactDecoder.java
+END
+BaseSAML2MessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding/decoding/BaseSAML2MessageDecoder.java
+END
+HTTPPostSimpleSignDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding/decoding/HTTPPostSimpleSignDecoder.java
+END
+HTTPSOAP11Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding/decoding/HTTPSOAP11Decoder.java
+END
+HTTPPostDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding/decoding/HTTPPostDecoder.java
+END
+HTTPRedirectDeflateDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding/decoding/HTTPRedirectDeflateDecoder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding/decoding/package.html
+END

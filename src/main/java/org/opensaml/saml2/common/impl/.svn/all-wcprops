@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common/impl
+END
+ExtensionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common/impl/ExtensionsImpl.java
+END
+ExtensionsBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common/impl/ExtensionsBuilder.java
+END
+ExtensionsMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common/impl/ExtensionsMarshaller.java
+END
+ExtensionsUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common/impl/ExtensionsUnmarshaller.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common/impl/package.html
+END

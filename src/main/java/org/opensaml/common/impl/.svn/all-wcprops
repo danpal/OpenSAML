@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/impl
+END
+SecureRandomIdentifierGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/impl/SecureRandomIdentifierGenerator.java
+END
+AbstractSAMLObjectMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/impl/AbstractSAMLObjectMarshaller.java
+END
+AbstractSAMLObjectUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/impl/AbstractSAMLObjectUnmarshaller.java
+END
+AbstractSAMLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/impl/AbstractSAMLObject.java
+END
+RandomIdentifierGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/impl/RandomIdentifierGenerator.java
+END
+AbstractSignableSAMLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/impl/AbstractSignableSAMLObject.java
+END
+SAMLObjectContentReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/impl/SAMLObjectContentReference.java
+END
+AbstractSAMLObjectBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/impl/AbstractSAMLObjectBuilder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/impl/package.html
+END

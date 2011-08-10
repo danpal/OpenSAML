@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1300/trunk/src/test/java/org/opensaml/saml2/metadata/provider
+END
+FilesystemMetadataProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/metadata/provider/FilesystemMetadataProviderTest.java
+END
+SchemaValidationFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/metadata/provider/SchemaValidationFilterTest.java
+END
+SignatureValidationFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/metadata/provider/SignatureValidationFilterTest.java
+END
+EntityRoleFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1300/trunk/src/test/java/org/opensaml/saml2/metadata/provider/EntityRoleFilterTest.java
+END
+FileBackedURLMetadataProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/metadata/provider/FileBackedURLMetadataProviderTest.java
+END
+ChainingMetadataProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/metadata/provider/ChainingMetadataProviderTest.java
+END
+URLMetadataProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/metadata/provider/URLMetadataProviderTest.java
+END

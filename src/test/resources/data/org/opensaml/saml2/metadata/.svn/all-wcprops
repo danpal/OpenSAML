@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/metadata
+END
+metadata.switchaai_signed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/metadata/metadata.switchaai_signed.xml
+END
+InCommon-metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/metadata/InCommon-metadata.xml
+END
+ukfederation-metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/metadata/ukfederation-metadata.xml
+END

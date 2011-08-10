@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/encryption
+END
+Attribute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/encryption/Attribute.xml
+END
+EncryptedElementTypeEncryptedKeyResolverSingleWithRecipient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/encryption/EncryptedElementTypeEncryptedKeyResolverSingleWithRecipient.xml
+END
+EncryptedElementTypeEncryptedKeyResolverSingleNoRecipient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/encryption/EncryptedElementTypeEncryptedKeyResolverSingleNoRecipient.xml
+END
+NewID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/encryption/NewID.xml
+END
+Assertion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/encryption/Assertion.xml
+END
+NameID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/encryption/NameID.xml
+END
+EncryptedElementTypeEncryptedKeyResolverMultiple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/encryption/EncryptedElementTypeEncryptedKeyResolverMultiple.xml
+END

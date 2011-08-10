@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/artifact
+END
+SAMLArtifactMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/artifact/SAMLArtifactMap.java
+END
+BasicSAMLArtifactMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/artifact/BasicSAMLArtifactMap.java
+END
+AbstractSAMLArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/artifact/AbstractSAMLArtifact.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/artifact/package.html
+END

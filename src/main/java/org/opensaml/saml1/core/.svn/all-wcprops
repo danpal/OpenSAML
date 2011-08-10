@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/java-opensaml2/!svn/ver/1293/trunk/src/main/java/org/opensaml/saml1/core
+END
+AuthorizationDecisionStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AuthorizationDecisionStatement.java
+END
+AssertionIDReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AssertionIDReference.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Attribute.java
+END
+Statement.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Statement.java
+END
+AuthenticationStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AuthenticationStatement.java
+END
+AuthorizationDecisionQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AuthorizationDecisionQuery.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Query.java
+END
+AuthenticationQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AuthenticationQuery.java
+END
+StatusDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/StatusDetail.java
+END
+Conditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Conditions.java
+END
+AudienceRestrictionCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AudienceRestrictionCondition.java
+END
+Audience.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Audience.java
+END
+Evidence.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Evidence.java
+END
+AttributeDesignator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AttributeDesignator.java
+END
+NameIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/NameIdentifier.java
+END
+ResponseAbstractType.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/ResponseAbstractType.java
+END
+SubjectStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/SubjectStatement.java
+END
+AssertionArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AssertionArtifact.java
+END
+SubjectQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/SubjectQuery.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Condition.java
+END
+ConfirmationMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/ConfirmationMethod.java
+END
+Advice.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Advice.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Response.java
+END
+Subject.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Subject.java
+END
+AttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AttributeValue.java
+END
+SubjectLocality.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/SubjectLocality.java
+END
+SubjectConfirmationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/SubjectConfirmationData.java
+END
+RespondWith.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/RespondWith.java
+END
+DecisionTypeEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/DecisionTypeEnumeration.java
+END
+Assertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Assertion.java
+END
+SubjectConfirmation.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/SubjectConfirmation.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Action.java
+END
+RequestAbstractType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/RequestAbstractType.java
+END
+DoNotCacheCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/DoNotCacheCondition.java
+END
+StatusCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/StatusCode.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/package.html
+END
+Evidentiary.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Evidentiary.java
+END
+AuthorityBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AuthorityBinding.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Status.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/Request.java
+END
+AttributeStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AttributeStatement.java
+END
+StatusMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/StatusMessage.java
+END
+AttributeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/core/AttributeQuery.java
+END

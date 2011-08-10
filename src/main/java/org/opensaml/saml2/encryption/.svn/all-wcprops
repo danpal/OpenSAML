@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/encryption
+END
+Decrypter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/encryption/Decrypter.java
+END
+EncryptedElementTypeEncryptedKeyResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/encryption/EncryptedElementTypeEncryptedKeyResolver.java
+END
+Encrypter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/encryption/Encrypter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/encryption/package.html
+END

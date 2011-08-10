@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml1/binding
+END
+ResponseSOAP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml1/binding/ResponseSOAP.xml
+END
+Response.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml1/binding/Response.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml1md/impl
+END
+SourceIDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml1md/impl/SourceIDImpl.java
+END
+SourceIDBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml1md/impl/SourceIDBuilder.java
+END
+SourceIDMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml1md/impl/SourceIDMarshaller.java
+END
+SourceIDUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml1md/impl/SourceIDUnmarshaller.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml1md/impl/package.html
+END

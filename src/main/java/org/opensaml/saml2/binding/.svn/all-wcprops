@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding
+END
+AuthnResponseEndpointSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding/AuthnResponseEndpointSelector.java
+END
+SAML2ArtifactMessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding/SAML2ArtifactMessageContext.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/binding/package.html
+END

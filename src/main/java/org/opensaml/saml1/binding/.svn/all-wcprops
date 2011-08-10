@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding
+END
+SAML1ArtifactMessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/SAML1ArtifactMessageContext.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml1/binding/package.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/core
+END
+MockBaseID.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/core/MockBaseID.java
+END
+SignedAssertionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/core/SignedAssertionTest.java
+END
+AuthnRequestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/core/AuthnRequestTest.java
+END
+ResponseSuccessAuthnAttribTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/core/ResponseSuccessAuthnAttribTest.java
+END

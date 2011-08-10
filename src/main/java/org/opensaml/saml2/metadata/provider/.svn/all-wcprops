@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1309/trunk/src/main/java/org/opensaml/saml2/metadata/provider
+END
+ObservableMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/ObservableMetadataProvider.java
+END
+FilesystemMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/FilesystemMetadataProvider.java
+END
+FilterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/FilterException.java
+END
+EntityRoleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/EntityRoleFilter.java
+END
+MetadataProviderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/MetadataProviderException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/package.html
+END
+AbstractMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/AbstractMetadataProvider.java
+END
+SchemaValidationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/SchemaValidationFilter.java
+END
+SignatureValidationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/SignatureValidationFilter.java
+END
+AbstractObservableMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/AbstractObservableMetadataProvider.java
+END
+FileBackedHTTPMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/FileBackedHTTPMetadataProvider.java
+END
+MetadataFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/MetadataFilter.java
+END
+BaseMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/BaseMetadataProvider.java
+END
+MetadataFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/MetadataFilterChain.java
+END
+MetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/MetadataProvider.java
+END
+HTTPMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1309/trunk/src/main/java/org/opensaml/saml2/metadata/provider/HTTPMetadataProvider.java
+END
+DOMMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/DOMMetadataProvider.java
+END
+ChainingMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/provider/ChainingMetadataProvider.java
+END

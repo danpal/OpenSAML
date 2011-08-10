@@ -1,0 +1,995 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl
+END
+AttributeProfileUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeProfileUnmarshaller.java
+END
+EmailAddressBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EmailAddressBuilder.java
+END
+EncryptionMethodMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EncryptionMethodMarshaller.java
+END
+NameIDMappingServiceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/NameIDMappingServiceUnmarshaller.java
+END
+EmailAddressMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EmailAddressMarshaller.java
+END
+ArtifactResolutionServiceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ArtifactResolutionServiceMarshaller.java
+END
+ServiceDescriptionMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ServiceDescriptionMarshaller.java
+END
+GivenNameBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/GivenNameBuilder.java
+END
+OrganizationNameUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationNameUnmarshaller.java
+END
+ArtifactResolutionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ArtifactResolutionServiceImpl.java
+END
+SPSSODescriptorUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SPSSODescriptorUnmarshaller.java
+END
+AuthzServiceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthzServiceMarshaller.java
+END
+AssertionIDRequestServiceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AssertionIDRequestServiceMarshaller.java
+END
+AffiliationDescriptorBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AffiliationDescriptorBuilder.java
+END
+SingleSignOnServiceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SingleSignOnServiceMarshaller.java
+END
+AuthnQueryServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthnQueryServiceBuilder.java
+END
+EntitiesDescriptorMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EntitiesDescriptorMarshaller.java
+END
+IndexedEndpointUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/IndexedEndpointUnmarshaller.java
+END
+AttributeServiceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeServiceMarshaller.java
+END
+AssertionIDRequestServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AssertionIDRequestServiceImpl.java
+END
+ContactPersonUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ContactPersonUnmarshaller.java
+END
+AffiliationDescriptorUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AffiliationDescriptorUnmarshaller.java
+END
+NameIDMappingServiceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/NameIDMappingServiceMarshaller.java
+END
+OrganizationDisplayNameMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationDisplayNameMarshaller.java
+END
+AttributeProfileImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeProfileImpl.java
+END
+ServiceNameBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ServiceNameBuilder.java
+END
+EncryptionMethodUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EncryptionMethodUnmarshaller.java
+END
+ArtifactResolutionServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ArtifactResolutionServiceBuilder.java
+END
+NameIDMappingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/NameIDMappingServiceImpl.java
+END
+IDPSSODescriptorUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/IDPSSODescriptorUnmarshaller.java
+END
+RoleDescriptorUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/RoleDescriptorUnmarshaller.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/package.html
+END
+AssertionConsumerServiceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AssertionConsumerServiceMarshaller.java
+END
+SPSSODescriptorMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SPSSODescriptorMarshaller.java
+END
+EntityDescriptorBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EntityDescriptorBuilder.java
+END
+AffiliateMemberBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AffiliateMemberBuilder.java
+END
+OrganizationNameImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationNameImpl.java
+END
+GivenNameUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/GivenNameUnmarshaller.java
+END
+SPSSODescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SPSSODescriptorImpl.java
+END
+AffiliateMemberUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AffiliateMemberUnmarshaller.java
+END
+ContactPersonMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ContactPersonMarshaller.java
+END
+EndpointUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EndpointUnmarshaller.java
+END
+NameIDMappingServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/NameIDMappingServiceBuilder.java
+END
+EntitiesDescriptorUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EntitiesDescriptorUnmarshaller.java
+END
+IndexedEndpointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/IndexedEndpointImpl.java
+END
+SingleLogoutServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SingleLogoutServiceBuilder.java
+END
+ContactPersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ContactPersonImpl.java
+END
+AffiliationDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AffiliationDescriptorImpl.java
+END
+OrganizationDisplayNameUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationDisplayNameUnmarshaller.java
+END
+SingleLogoutServiceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SingleLogoutServiceUnmarshaller.java
+END
+NameIDFormatBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/NameIDFormatBuilder.java
+END
+EncryptionMethodImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EncryptionMethodImpl.java
+END
+ServiceNameUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ServiceNameUnmarshaller.java
+END
+AdditionalMetadataLocationUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AdditionalMetadataLocationUnmarshaller.java
+END
+IDPSSODescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/IDPSSODescriptorImpl.java
+END
+RoleDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/RoleDescriptorImpl.java
+END
+ContactPersonBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ContactPersonBuilder.java
+END
+GivenNameImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/GivenNameImpl.java
+END
+AffiliateMemberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AffiliateMemberImpl.java
+END
+OrganizationURLMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationURLMarshaller.java
+END
+EndpointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EndpointImpl.java
+END
+AuthnQueryServiceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthnQueryServiceUnmarshaller.java
+END
+EntitiesDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EntitiesDescriptorImpl.java
+END
+TelephoneNumberMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/TelephoneNumberMarshaller.java
+END
+ServiceDescriptionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ServiceDescriptionBuilder.java
+END
+OrganizationNameBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationNameBuilder.java
+END
+OrganizationDisplayNameImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationDisplayNameImpl.java
+END
+AdditionalMetadataLocationMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AdditionalMetadataLocationMarshaller.java
+END
+CompanyBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/CompanyBuilder.java
+END
+SingleLogoutServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SingleLogoutServiceImpl.java
+END
+OrganizationMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationMarshaller.java
+END
+OrganizationNameMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationNameMarshaller.java
+END
+AttributeConsumingServiceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeConsumingServiceMarshaller.java
+END
+AttributeAuthorityDescriptorBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeAuthorityDescriptorBuilder.java
+END
+ServiceDescriptionUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ServiceDescriptionUnmarshaller.java
+END
+AuthzServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthzServiceBuilder.java
+END
+ServiceNameImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ServiceNameImpl.java
+END
+AdditionalMetadataLocationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AdditionalMetadataLocationImpl.java
+END
+EntityDescriptorMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EntityDescriptorMarshaller.java
+END
+SurNameUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SurNameUnmarshaller.java
+END
+AuthzServiceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthzServiceUnmarshaller.java
+END
+AttributeServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeServiceBuilder.java
+END
+IndexedEndpointMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/IndexedEndpointMarshaller.java
+END
+SingleSignOnServiceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SingleSignOnServiceUnmarshaller.java
+END
+AuthnQueryServiceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthnQueryServiceMarshaller.java
+END
+ManageNameIDServiceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ManageNameIDServiceMarshaller.java
+END
+AttributeServiceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeServiceUnmarshaller.java
+END
+RequestedAttributeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/RequestedAttributeUnmarshaller.java
+END
+OrganizationURLUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationURLUnmarshaller.java
+END
+AuthnQueryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthnQueryServiceImpl.java
+END
+AdditionalMetadataLocationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AdditionalMetadataLocationBuilder.java
+END
+AssertionConsumerServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AssertionConsumerServiceBuilder.java
+END
+AssertionConsumerServiceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AssertionConsumerServiceUnmarshaller.java
+END
+NameIDFormatUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/NameIDFormatUnmarshaller.java
+END
+GivenNameMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/GivenNameMarshaller.java
+END
+AttributeConsumingServiceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeConsumingServiceUnmarshaller.java
+END
+SurNameMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SurNameMarshaller.java
+END
+ServiceDescriptionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ServiceDescriptionImpl.java
+END
+EntityDescriptorUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EntityDescriptorUnmarshaller.java
+END
+SurNameImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SurNameImpl.java
+END
+OrganizationURLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationURLBuilder.java
+END
+AuthzServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthzServiceImpl.java
+END
+AttributeProfileMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeProfileMarshaller.java
+END
+KeyDescriptorMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/KeyDescriptorMarshaller.java
+END
+AuthnAuthorityDescriptorMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthnAuthorityDescriptorMarshaller.java
+END
+SingleSignOnServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SingleSignOnServiceImpl.java
+END
+ManageNameIDServiceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ManageNameIDServiceUnmarshaller.java
+END
+AttributeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeServiceImpl.java
+END
+RequestedAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/RequestedAttributeImpl.java
+END
+IDPSSODescriptorBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/IDPSSODescriptorBuilder.java
+END
+OrganizationURLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationURLImpl.java
+END
+EmailAddressUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EmailAddressUnmarshaller.java
+END
+ServiceNameMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ServiceNameMarshaller.java
+END
+AttributeConsumingServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeConsumingServiceBuilder.java
+END
+SSODescriptorMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SSODescriptorMarshaller.java
+END
+NameIDFormatMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/NameIDFormatMarshaller.java
+END
+SurNameBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SurNameBuilder.java
+END
+CompanyUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/CompanyUnmarshaller.java
+END
+AssertionIDRequestServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AssertionIDRequestServiceBuilder.java
+END
+AttributeAuthorityDescriptorMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeAuthorityDescriptorMarshaller.java
+END
+AssertionConsumerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AssertionConsumerServiceImpl.java
+END
+NameIDFormatImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/NameIDFormatImpl.java
+END
+AttributeConsumingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeConsumingServiceImpl.java
+END
+EntityDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EntityDescriptorImpl.java
+END
+ManageNameIDServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ManageNameIDServiceBuilder.java
+END
+AffiliationDescriptorMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AffiliationDescriptorMarshaller.java
+END
+PDPDescriptorUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/PDPDescriptorUnmarshaller.java
+END
+EncryptionMethodBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EncryptionMethodBuilder.java
+END
+TelephoneNumberBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/TelephoneNumberBuilder.java
+END
+KeyDescriptorUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/KeyDescriptorUnmarshaller.java
+END
+AuthnAuthorityDescriptorUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthnAuthorityDescriptorUnmarshaller.java
+END
+ManageNameIDServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ManageNameIDServiceImpl.java
+END
+TelephoneNumberUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/TelephoneNumberUnmarshaller.java
+END
+OrganizationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationBuilder.java
+END
+IDPSSODescriptorMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/IDPSSODescriptorMarshaller.java
+END
+RoleDescriptorMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/RoleDescriptorMarshaller.java
+END
+SPSSODescriptorBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SPSSODescriptorBuilder.java
+END
+EmailAddressImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EmailAddressImpl.java
+END
+CompanyMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/CompanyMarshaller.java
+END
+SSODescriptorUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SSODescriptorUnmarshaller.java
+END
+OrganizationUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationUnmarshaller.java
+END
+AffiliateMemberMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AffiliateMemberMarshaller.java
+END
+CompanyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/CompanyImpl.java
+END
+AttributeAuthorityDescriptorUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeAuthorityDescriptorUnmarshaller.java
+END
+EntitiesDescriptorBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EntitiesDescriptorBuilder.java
+END
+EndpointMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/EndpointMarshaller.java
+END
+RequestedAttributeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/RequestedAttributeBuilder.java
+END
+PDPDescriptorMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/PDPDescriptorMarshaller.java
+END
+KeyDescriptorBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/KeyDescriptorBuilder.java
+END
+AuthnAuthorityDescriptorBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthnAuthorityDescriptorBuilder.java
+END
+RequestedAttributeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/RequestedAttributeMarshaller.java
+END
+OrganizationDisplayNameBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationDisplayNameBuilder.java
+END
+PDPDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/PDPDescriptorImpl.java
+END
+SingleLogoutServiceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SingleLogoutServiceMarshaller.java
+END
+KeyDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/KeyDescriptorImpl.java
+END
+AuthnAuthorityDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AuthnAuthorityDescriptorImpl.java
+END
+TelephoneNumberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/TelephoneNumberImpl.java
+END
+ArtifactResolutionServiceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/ArtifactResolutionServiceUnmarshaller.java
+END
+SSODescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SSODescriptorImpl.java
+END
+OrganizationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/OrganizationImpl.java
+END
+SingleSignOnServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/SingleSignOnServiceBuilder.java
+END
+PDPDescriptorBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/PDPDescriptorBuilder.java
+END
+AttributeProfileBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeProfileBuilder.java
+END
+AssertionIDRequestServiceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AssertionIDRequestServiceUnmarshaller.java
+END
+AttributeAuthorityDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/impl/AttributeAuthorityDescriptorImpl.java
+END

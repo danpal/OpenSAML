@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/binding/security
+END
+SAML2HTTPPostSimpleSignSecurityPolicyRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/binding/security/SAML2HTTPPostSimpleSignSecurityPolicyRuleTest.java
+END
+SAML2HTTPRedirectDeflateSignatureSecurityPolicyRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/saml2/binding/security/SAML2HTTPRedirectDeflateSignatureSecurityPolicyRuleTest.java
+END

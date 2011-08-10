@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/common/binding/security
+END
+Signed-AuthnRequest-InvalidSignature.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/common/binding/security/Signed-AuthnRequest-InvalidSignature.xml
+END
+Signed-AuthnRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/common/binding/security/Signed-AuthnRequest.xml
+END

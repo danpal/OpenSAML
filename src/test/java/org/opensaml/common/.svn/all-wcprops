@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/java-opensaml2/!svn/ver/1300/trunk/src/test/java/org/opensaml/common
+END
+BaseSAMLObjectValidatorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/BaseSAMLObjectValidatorTestCase.java
+END
+BaseComplexSAMLObjectTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/BaseComplexSAMLObjectTestCase.java
+END
+BaseSAMLObjectProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/BaseSAMLObjectProviderTestCase.java
+END
+BaseTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/java-opensaml2/!svn/ver/1300/trunk/src/test/java/org/opensaml/common/BaseTestCase.java
+END
+RoundTripTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/RoundTripTest.java
+END
+TestBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-opensaml2/!svn/ver/1288/trunk/src/test/java/org/opensaml/common/TestBootstrap.java
+END

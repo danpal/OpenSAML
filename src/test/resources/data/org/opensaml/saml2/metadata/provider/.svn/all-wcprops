@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/metadata/provider
+END
+openid-metadata-invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/metadata/provider/openid-metadata-invalid.xml
+END
+metadata.aaitest_signed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/metadata/provider/metadata.aaitest_signed.xml
+END
+metadata.aaitest_signed.invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/metadata/provider/metadata.aaitest_signed.invalid.xml
+END
+openid-metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/metadata/provider/openid-metadata.xml
+END

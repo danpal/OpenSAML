@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common
+END
+Extensions.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common/Extensions.java
+END
+TimeBoundSAMLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common/TimeBoundSAMLObject.java
+END
+CacheableSAMLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common/CacheableSAMLObject.java
+END
+SAML2Helper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common/SAML2Helper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/common/package.html
+END

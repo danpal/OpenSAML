@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl
+END
+AttributeQueryDescriptorTypeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AttributeQueryDescriptorTypeBuilder.java
+END
+ActionNamespaceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/ActionNamespaceBuilder.java
+END
+AttributeQueryDescriptorTypeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AttributeQueryDescriptorTypeMarshaller.java
+END
+ActionNamespaceMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/ActionNamespaceMarshaller.java
+END
+AuthzDecisionQueryDescriptorTypeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AuthzDecisionQueryDescriptorTypeBuilder.java
+END
+AttributeQueryDescriptorTypeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AttributeQueryDescriptorTypeUnmarshaller.java
+END
+ActionNamespaceUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/ActionNamespaceUnmarshaller.java
+END
+AuthzDecisionQueryDescriptorTypeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AuthzDecisionQueryDescriptorTypeMarshaller.java
+END
+AttributeQueryDescriptorTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AttributeQueryDescriptorTypeImpl.java
+END
+ActionNamespaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/ActionNamespaceImpl.java
+END
+AuthnQueryDescriptorTypeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AuthnQueryDescriptorTypeBuilder.java
+END
+AuthzDecisionQueryDescriptorTypeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AuthzDecisionQueryDescriptorTypeUnmarshaller.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/package.html
+END
+AuthnQueryDescriptorTypeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AuthnQueryDescriptorTypeMarshaller.java
+END
+QueryDescriptorTypeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/QueryDescriptorTypeMarshaller.java
+END
+AuthzDecisionQueryDescriptorTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AuthzDecisionQueryDescriptorTypeImpl.java
+END
+AuthnQueryDescriptorTypeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AuthnQueryDescriptorTypeUnmarshaller.java
+END
+QueryDescriptorTypeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/QueryDescriptorTypeUnmarshaller.java
+END
+AuthnQueryDescriptorTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/AuthnQueryDescriptorTypeImpl.java
+END
+QueryDescriptorTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/saml2mdquery/impl/QueryDescriptorTypeImpl.java
+END

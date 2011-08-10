@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/binding
+END
+AuthnRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/binding/AuthnRequest.xml
+END
+http-post-binding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/binding/http-post-binding.xml
+END
+AttributeQuerySOAP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/binding/AttributeQuerySOAP.xml
+END

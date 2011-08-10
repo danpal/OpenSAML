@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/security
+END
+IssueInstantRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/security/IssueInstantRule.java
+END
+BaseSAMLSimpleSignatureSecurityPolicyRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/security/BaseSAMLSimpleSignatureSecurityPolicyRule.java
+END
+SAMLMDClientCertAuthRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/security/SAMLMDClientCertAuthRule.java
+END
+SAMLProtocolMessageXMLSignatureSecurityPolicyRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/security/SAMLProtocolMessageXMLSignatureSecurityPolicyRule.java
+END
+MessageReplayRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/security/MessageReplayRule.java
+END
+BaseSAMLXMLSignatureSecurityPolicyRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/security/BaseSAMLXMLSignatureSecurityPolicyRule.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/common/binding/security/package.html
+END

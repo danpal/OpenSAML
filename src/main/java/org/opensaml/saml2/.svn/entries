@@ -1,0 +1,43 @@
+10
+
+dir
+1548
+https://svn.shibboleth.net/java-opensaml2/trunk/src/main/java/org/opensaml/saml2
+https://svn.shibboleth.net/java-opensaml2
+
+
+
+2008-04-10T19:22:24.519358Z
+1309
+wnorris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59e08313-8a06-0410-87f4-cf042bce0a15
+
+metadata
+dir
+
+common
+dir
+
+core
+dir
+
+binding
+dir
+
+encryption
+dir
+

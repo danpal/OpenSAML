@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator
+END
+SingleSignOnServiceSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/SingleSignOnServiceSpecValidator.java
+END
+SurNameSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/SurNameSchemaValidator.java
+END
+EntityDescriptorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/EntityDescriptorSchemaValidator.java
+END
+AttributeAuthorityDescriptorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AttributeAuthorityDescriptorSchemaValidator.java
+END
+AffiliateMemberSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AffiliateMemberSchemaValidator.java
+END
+AuthzServiceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AuthzServiceSchemaValidator.java
+END
+PDPDescriptorSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/PDPDescriptorSpecValidator.java
+END
+AssertionIDRequestServiceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AssertionIDRequestServiceSchemaValidator.java
+END
+EndpointSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/EndpointSchemaValidator.java
+END
+SingleSignOnServiceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/SingleSignOnServiceSchemaValidator.java
+END
+IndexedEndpointSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/IndexedEndpointSchemaValidator.java
+END
+PDPDescriptorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/PDPDescriptorSchemaValidator.java
+END
+AttributeProfileSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AttributeProfileSchemaValidator.java
+END
+AttributeServiceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AttributeServiceSchemaValidator.java
+END
+NameIDMappingServiceSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/NameIDMappingServiceSpecValidator.java
+END
+ManageNameIDServiceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/ManageNameIDServiceSchemaValidator.java
+END
+NameIDMappingServiceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/NameIDMappingServiceSchemaValidator.java
+END
+EncryptionMethodSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/EncryptionMethodSchemaValidator.java
+END
+SingleLogoutServiceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/SingleLogoutServiceSchemaValidator.java
+END
+TelephoneNumberSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/TelephoneNumberSchemaValidator.java
+END
+EmailAddressSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/EmailAddressSchemaValidator.java
+END
+SPSSODescriptorSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/SPSSODescriptorSpecValidator.java
+END
+AdditionalMetadataLocationSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AdditionalMetadataLocationSchemaValidator.java
+END
+AssertionConsumerServiceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AssertionConsumerServiceSchemaValidator.java
+END
+OrganizationSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/OrganizationSchemaValidator.java
+END
+NameIDFormatSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/NameIDFormatSchemaValidator.java
+END
+SPSSODescriptorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/SPSSODescriptorSchemaValidator.java
+END
+GivenNameSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/GivenNameSchemaValidator.java
+END
+EntitiesDescriptorSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/EntitiesDescriptorSpecValidator.java
+END
+AuthnAuthorityDescriptorSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AuthnAuthorityDescriptorSpecValidator.java
+END
+ContactPersonSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/ContactPersonSchemaValidator.java
+END
+EntitiesDescriptorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/EntitiesDescriptorSchemaValidator.java
+END
+AffiliationDescriptorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AffiliationDescriptorSchemaValidator.java
+END
+RequestedAttributeSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/RequestedAttributeSchemaValidator.java
+END
+AuthnQueryServiceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AuthnQueryServiceSchemaValidator.java
+END
+KeyDescriptorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/KeyDescriptorSchemaValidator.java
+END
+AuthnAuthorityDescriptorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AuthnAuthorityDescriptorSchemaValidator.java
+END
+OrganizationURLSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/OrganizationURLSchemaValidator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/package.html
+END
+IDPSSODescriptorSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/IDPSSODescriptorSpecValidator.java
+END
+RoleDescriptorSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/RoleDescriptorSpecValidator.java
+END
+OrganizationDisplayNameSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/OrganizationDisplayNameSchemaValidator.java
+END
+ArtifactResolutionServiceSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/ArtifactResolutionServiceSpecValidator.java
+END
+SSODescriptorSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/SSODescriptorSpecValidator.java
+END
+IDPSSODescriptorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/IDPSSODescriptorSchemaValidator.java
+END
+RoleDescriptorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/RoleDescriptorSchemaValidator.java
+END
+ServiceNameSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/ServiceNameSchemaValidator.java
+END
+ArtifactResolutionServiceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/ArtifactResolutionServiceSchemaValidator.java
+END
+SSODescriptorSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/SSODescriptorSchemaValidator.java
+END
+ServiceDescriptionSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/ServiceDescriptionSchemaValidator.java
+END
+EntityDescriptorSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/EntityDescriptorSpecValidator.java
+END
+AttributeAuthorityDescriptorSpecValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AttributeAuthorityDescriptorSpecValidator.java
+END
+OrganizationNameSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/OrganizationNameSchemaValidator.java
+END
+CompanySchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/CompanySchemaValidator.java
+END
+AttributeConsumingServiceSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/saml2/metadata/validator/AttributeConsumingServiceSchemaValidator.java
+END

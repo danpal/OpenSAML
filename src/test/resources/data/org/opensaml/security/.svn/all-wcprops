@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/security
+END
+Signed-AuthnRequest-BadURIValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/security/Signed-AuthnRequest-BadURIValue.xml
+END
+Signed-AuthnRequest-NonLocalURI.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/security/Signed-AuthnRequest-NonLocalURI.xml
+END
+Signed-AuthnRequest-TooManyTransforms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/security/Signed-AuthnRequest-TooManyTransforms.xml
+END
+Signed-AuthnRequest-MissingID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/security/Signed-AuthnRequest-MissingID.xml
+END
+Signed-AuthnRequest-MissingEnvelopedTransform.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/security/Signed-AuthnRequest-MissingEnvelopedTransform.xml
+END
+Signed-AuthnRequest-TooManyReferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/security/Signed-AuthnRequest-TooManyReferences.xml
+END
+Signed-AuthnRequest-Valid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/security/Signed-AuthnRequest-Valid.xml
+END
+test1-metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/security/test1-metadata.xml
+END
+Signed-AuthnRequest-BadTransform.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/security/Signed-AuthnRequest-BadTransform.xml
+END

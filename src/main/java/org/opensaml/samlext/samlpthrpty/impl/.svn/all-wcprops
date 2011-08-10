@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/samlpthrpty/impl
+END
+RespondToImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/samlpthrpty/impl/RespondToImpl.java
+END
+RespondToBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/samlpthrpty/impl/RespondToBuilder.java
+END
+RespondToMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/samlpthrpty/impl/RespondToMarshaller.java
+END
+RespondToUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/samlpthrpty/impl/RespondToUnmarshaller.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/main/java/org/opensaml/samlext/samlpthrpty/impl/package.html
+END

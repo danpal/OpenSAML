@@ -1,0 +1,761 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl
+END
+AssertionIDRef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AssertionIDRef.xml
+END
+RequestedAuthnContextOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/RequestedAuthnContextOptionalAttributes.xml
+END
+AuthnContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnContext.xml
+END
+StatusChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/StatusChildElements.xml
+END
+EncryptedAssertion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/EncryptedAssertion.xml
+END
+NewEncryptedIDChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NewEncryptedIDChildElements.xml
+END
+EncryptedAssertionChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/EncryptedAssertionChildElements.xml
+END
+LogoutResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/LogoutResponse.xml
+END
+NameIDMappingResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NameIDMappingResponse.xml
+END
+Terminate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Terminate.xml
+END
+AttributeStatementChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AttributeStatementChildElements.xml
+END
+ActionOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ActionOptionalAttributes.xml
+END
+NameIDPolicyOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NameIDPolicyOptionalAttributes.xml
+END
+Response.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Response.xml
+END
+AuthzDecisionStatementChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthzDecisionStatementChildElements.xml
+END
+AuthzDecisionQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthzDecisionQuery.xml
+END
+SubjectLocality.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/SubjectLocality.xml
+END
+AudienceRestriction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AudienceRestriction.xml
+END
+AuthnStatement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnStatement.xml
+END
+AuthnRequestOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnRequestOptionalAttributes.xml
+END
+AuthnContextClassRef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnContextClassRef.xml
+END
+SubjectConfirmation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/SubjectConfirmation.xml
+END
+Conditions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Conditions.xml
+END
+IDPListChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/IDPListChildElements.xml
+END
+EncryptedID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/EncryptedID.xml
+END
+ConditionsChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ConditionsChildElements.xml
+END
+AuthzDecisionQueryOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthzDecisionQueryOptionalAttributes.xml
+END
+AuthnContextDecl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnContextDecl.xml
+END
+OneTimeUse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/OneTimeUse.xml
+END
+StatusCode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/StatusCode.xml
+END
+ScopingOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ScopingOptionalAttributes.xml
+END
+SubjectConfirmationDataOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/SubjectConfirmationDataOptionalAttributes.xml
+END
+ManageNameIDRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ManageNameIDRequest.xml
+END
+AuthenticatingAuthority.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthenticatingAuthority.xml
+END
+EncryptedAttribute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/EncryptedAttribute.xml
+END
+EncryptedAttributeChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/EncryptedAttributeChildElements.xml
+END
+LogoutRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/LogoutRequest.xml
+END
+NameIDMappingRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NameIDMappingRequest.xml
+END
+NewEncryptedID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NewEncryptedID.xml
+END
+ManageNameIDResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ManageNameIDResponse.xml
+END
+ConditionsOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ConditionsOptionalAttributes.xml
+END
+ManageNameIDResponseChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ManageNameIDResponseChildElements.xml
+END
+BaseID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/BaseID.xml
+END
+AttributeStatement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AttributeStatement.xml
+END
+StatusMessage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/StatusMessage.xml
+END
+AuthnRequestChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnRequestChildElements.xml
+END
+Advice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Advice.xml
+END
+ManageNameIDRequestOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ManageNameIDRequestOptionalAttributes.xml
+END
+IDPEntry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/IDPEntry.xml
+END
+ResponseChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ResponseChildElements.xml
+END
+SubjectChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/SubjectChildElements.xml
+END
+ManageNameIDResponseOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ManageNameIDResponseOptionalAttributes.xml
+END
+BaseIDOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/BaseIDOptionalAttributes.xml
+END
+AuthnQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnQuery.xml
+END
+AuthnQueryChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnQueryChildElements.xml
+END
+RequestedAuthnContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/RequestedAuthnContext.xml
+END
+Assertion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Assertion.xml
+END
+ProxyRestriction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ProxyRestriction.xml
+END
+IDPList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/IDPList.xml
+END
+AuthnContextDeclRef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnContextDeclRef.xml
+END
+EncryptedIDChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/EncryptedIDChildElements.xml
+END
+AuthzDecisionStatementOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthzDecisionStatementOptionalAttributes.xml
+END
+SessionIndex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/SessionIndex.xml
+END
+StatusCodeChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/StatusCodeChildElements.xml
+END
+Evidence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Evidence.xml
+END
+AuthnQueryOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnQueryOptionalAttributes.xml
+END
+LogoutRequestChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/LogoutRequestChildElements.xml
+END
+NameIDMappingRequestChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NameIDMappingRequestChildElements.xml
+END
+Status.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Status.xml
+END
+AssertionOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AssertionOptionalAttributes.xml
+END
+AuthnRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnRequest.xml
+END
+ArtifactResponseOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ArtifactResponseOptionalAttributes.xml
+END
+AttributeQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AttributeQuery.xml
+END
+AttributeQueryChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AttributeQueryChildElements.xml
+END
+RequesterID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/RequesterID.xml
+END
+AssertionIDRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AssertionIDRequest.xml
+END
+Artifact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Artifact.xml
+END
+AssertionIDRequestChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AssertionIDRequestChildElements.xml
+END
+AuthzDecisionQueryChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthzDecisionQueryChildElements.xml
+END
+Scoping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Scoping.xml
+END
+SubjectConfirmationData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/SubjectConfirmationData.xml
+END
+Attribute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Attribute.xml
+END
+AudienceRestrictionChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AudienceRestrictionChildElements.xml
+END
+LogoutResponseOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/LogoutResponseOptionalAttributes.xml
+END
+NameIDMappingResponseOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NameIDMappingResponseOptionalAttributes.xml
+END
+AttributeQueryOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AttributeQueryOptionalAttributes.xml
+END
+NewID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NewID.xml
+END
+RequestedAuthnContextChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/RequestedAuthnContextChildElements.xml
+END
+GetComplete.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/GetComplete.xml
+END
+KeyInfoConfirmationDataType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/KeyInfoConfirmationDataType.xml
+END
+AssertionIDRequestOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AssertionIDRequestOptionalAttributes.xml
+END
+KeyInfoConfirmationDataTypeChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/KeyInfoConfirmationDataTypeChildElements.xml
+END
+ResponseOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ResponseOptionalAttributes.xml
+END
+ArtifactResponseChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ArtifactResponseChildElements.xml
+END
+Audience.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Audience.xml
+END
+SubjectLocalityOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/SubjectLocalityOptionalAttributes.xml
+END
+AttributeOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AttributeOptionalAttributes.xml
+END
+ManageNameIDRequestChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ManageNameIDRequestChildElements.xml
+END
+AuthnStatementOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnStatementOptionalAttributes.xml
+END
+EvidenceChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/EvidenceChildElements.xml
+END
+AssertionURIRef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AssertionURIRef.xml
+END
+AuthnContextChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnContextChildElements.xml
+END
+KeyInfoConfirmationDataTypeOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/KeyInfoConfirmationDataTypeOptionalAttributes.xml
+END
+LogoutResponseChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/LogoutResponseChildElements.xml
+END
+NameIDMappingResponseChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NameIDMappingResponseChildElements.xml
+END
+AdviceChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AdviceChildElements.xml
+END
+ArtifactResolve.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ArtifactResolve.xml
+END
+NameID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NameID.xml
+END
+AuthzDecisionStatement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthzDecisionStatement.xml
+END
+ArtifactResolveChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ArtifactResolveChildElements.xml
+END
+LogoutRequestOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/LogoutRequestOptionalAttributes.xml
+END
+NameIDMappingRequestOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NameIDMappingRequestOptionalAttributes.xml
+END
+Subject.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Subject.xml
+END
+SubjectConfirmationChildElementsWithEncryptedID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/SubjectConfirmationChildElementsWithEncryptedID.xml
+END
+ScopingChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ScopingChildElements.xml
+END
+AuthnStatementChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AuthnStatementChildElements.xml
+END
+AssertionChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/AssertionChildElements.xml
+END
+ProxyRestrictionChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ProxyRestrictionChildElements.xml
+END
+SubjectConfirmationChildElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/SubjectConfirmationChildElements.xml
+END
+ArtifactResolveOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ArtifactResolveOptionalAttributes.xml
+END
+Issuer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Issuer.xml
+END
+NameIDOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NameIDOptionalAttributes.xml
+END
+IDPEntryOptionalAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/IDPEntryOptionalAttributes.xml
+END
+ArtifactResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/ArtifactResponse.xml
+END
+Action.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/Action.xml
+END
+NameIDPolicy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/java-opensaml2/!svn/ver/1288/trunk/src/test/resources/data/org/opensaml/saml2/core/impl/NameIDPolicy.xml
+END
